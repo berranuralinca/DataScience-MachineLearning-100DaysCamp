@@ -36,4 +36,4 @@
 
 ---
 
-[8.Gün Quiz](./8.Gun-Quiz.ipynb/)
+[8.Gün Quiz](./8.Gun-Quiz2.ipynb/)
