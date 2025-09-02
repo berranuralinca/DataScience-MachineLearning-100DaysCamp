@@ -8,10 +8,22 @@
 
 ## 📌 İçindekiler
 
- [1. Hafta ](./1.Hafta/)
--  Numaralar
--  Int vs Float
--  String
--  String Methodları
+ [1.Gün Giriş ve Kurulumlar]
+ 
+---
 
+ [2.Gün Veri Tipleri]
+ 
+---
+
+ [3.Gün Listeler]
+ 
+---
+
+ [4.Gün Dictionary-Set-Tuple]
+ 
+---
+
+ [5.Gün Quiz](./5.gun/)
+ 
 ---
