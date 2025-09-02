@@ -24,6 +24,6 @@
  
 ---
 
- [5.Gün Quiz](./5.gun/)
+ [5.Gün Quiz](./5.Gun-Quiz.ipynb/)
  
 ---
