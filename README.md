@@ -27,3 +27,13 @@
  [5.Gün Quiz](./5.Gun-Quiz.ipynb/)
  
 ---
+
+ 6.Gün Kontroller ve Döngüler
+
+---
+
+ 7.Gün Döngüler
+
+---
+
+[8.Gün Quiz](./8.Gun-Quiz.ipynb/)
