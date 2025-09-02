@@ -37,3 +37,11 @@
 ---
 
 [8.Gün Quiz](./8.Gun-Quiz2.ipynb/)
+
+---
+
+ 9.Gün Fonksiyonlar
+
+---
+
+ 10.Gün OOP ve Sınıflar
