@@ -8,19 +8,19 @@
 
 ## 📌 İçindekiler
 
- [1.Gün Giriş ve Kurulumlar]
+ 1.Gün Giriş ve Kurulumlar
  
 ---
 
- [2.Gün Veri Tipleri]
+ 2.Gün Veri Tipleri
  
 ---
 
- [3.Gün Listeler]
+ 3.Gün Listeler
  
 ---
 
- [4.Gün Dictionary-Set-Tuple]
+ 4.Gün Dictionary-Set-Tuple
  
 ---
 
