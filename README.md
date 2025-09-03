@@ -44,4 +44,8 @@
 
 ---
 
- 10.Gün OOP ve Sınıflar
+[10-11.Gün Quiz](./10-11.Gun/)
+
+---
+
+[12.Gün Quiz](./12.Gun-Quiz3.ipynb/)
