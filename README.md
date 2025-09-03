@@ -44,7 +44,7 @@
 
 ---
 
-[10-11.Gün Quiz](./10-11.Gun/)
+[10-11.Gün Quiz](./Gun10-11.OOP-Siniflar/)
 
 ---
 
